@@ -1,0 +1,10 @@
+F:\SENAI\Entity Framework\PrimeiroEF\bin\Debug\netcoreapp2.0\PrimeiroEF.deps.json
+F:\SENAI\Entity Framework\PrimeiroEF\bin\Debug\netcoreapp2.0\PrimeiroEF.runtimeconfig.json
+F:\SENAI\Entity Framework\PrimeiroEF\bin\Debug\netcoreapp2.0\PrimeiroEF.runtimeconfig.dev.json
+F:\SENAI\Entity Framework\PrimeiroEF\bin\Debug\netcoreapp2.0\PrimeiroEF.dll
+F:\SENAI\Entity Framework\PrimeiroEF\bin\Debug\netcoreapp2.0\PrimeiroEF.pdb
+F:\SENAI\Entity Framework\PrimeiroEF\obj\Debug\netcoreapp2.0\PrimeiroEF.csproj.CoreCompileInputs.cache
+F:\SENAI\Entity Framework\PrimeiroEF\obj\Debug\netcoreapp2.0\PrimeiroEF.AssemblyInfoInputs.cache
+F:\SENAI\Entity Framework\PrimeiroEF\obj\Debug\netcoreapp2.0\PrimeiroEF.AssemblyInfo.cs
+F:\SENAI\Entity Framework\PrimeiroEF\obj\Debug\netcoreapp2.0\PrimeiroEF.dll
+F:\SENAI\Entity Framework\PrimeiroEF\obj\Debug\netcoreapp2.0\PrimeiroEF.pdb
